@@ -33,13 +33,13 @@ const testimonials = [
     quote: "Joyful Minds is doing a fantastic job in the field of education, our school children get to know so many things during this program",
     author: "Aditya Birla",
     designation: "Principal, Sun Elementary School",
-    avatar: "/images/testimonials/aditya.jpg"
+    avatar: "https://cdn.pixabay.com/photo/2023/06/23/11/23/ai-generated-8083323_1280.jpg"
   },
   {
     quote: "Their dedicated approach to child welfare has transformed countless lives in our community",
     author: "Priya Sharma",
     designation: "Education Department Head",
-    avatar: "/images/testimonials/priya.jpg"
+    avatar: "https://cdn.pixabay.com/photo/2017/03/27/13/28/man-2178721_1280.jpg"
   }
 ];
 
@@ -102,7 +102,7 @@ export default function AboutUs() {
         <h2 className="text-3xl font-bold text-center mb-2 ">
           Grow Up Humanity
         </h2>
-        <p className="text-gray-600 text-center mb-16 max-w-3xl mx-auto">
+        <p className="text-gray-500 text-center mb-16 max-w-3xl mx-auto">
           At Joyful Minds, we believe that every child deserves the opportunity to live a life full of joy, growth, and possibility. 
           It is our mission to fulfill basic needs, nurturing them thrive and flourish.
         </p>
@@ -112,21 +112,21 @@ export default function AboutUs() {
             <h3 className="text-2xl font-bold  mb-4">
               Who We Are
             </h3>
-            <p className="text-gray-600 mb-6">
+            <p className="text-gray-500 mb-6">
               Our organization is wholeheartedly dedicated to brightening the lives of children from diverse backgrounds across society. We are driven by an unwavering determination to empower these young minds, creating a safe, joyful, and nurturing environment for their growth and development.
             </p>
 
             <h3 className="text-2xl font-bold  mb-4">
               Our Vision
             </h3>
-            <p className="text-gray-600 mb-6">
+            <p className="text-gray-500 mb-6">
               Our mission at Joyful Minds is to positively impact the lives of every child, addressing their needs in healthcare, education, and emotional support. We are dedicated to creating a nurturing environment where each child feels safe, cherished, and empowered to explore and develop their unique talents, personality, and skills. Our ultimate goal is to enable every child to blossom into a joyful, well-rounded individual, ready to contribute to a better and happier society.
             </p>
 
             <h3 className="text-2xl font-bold  mb-4">
               Our Mission
             </h3>
-            <p className="text-gray-600">
+            <p className="text-gray-500">
               Our mission at Joyful Minds is to positively impact the lives of every child, addressing their needs in healthcare, education, and emotional support. We are dedicated to creating a nurturing environment where each child feels safe, cherished, and empowered to explore and develop their unique talents, personality, and skills.
             </p>
           </div>
@@ -153,7 +153,7 @@ export default function AboutUs() {
               <h4 className="font-bold  mb-2">
                 Empathy & Understanding
               </h4>
-              <p className="text-gray-600">
+              <p className="text-gray-500">
                 We approach each child cautiously and with an understanding of their unique circumstances.
               </p>
             </div>
@@ -162,7 +162,7 @@ export default function AboutUs() {
               <h4 className="font-bold mb-2">
                 Transparency
               </h4>
-              <p className="text-gray-600">
+              <p className="text-gray-500">
                 We believe in Integrity and Accountability, and, hence, we ensure that our donors, supporters and our beneficiaries are all well aware of our work and its impact.
               </p>
             </div>
@@ -171,7 +171,7 @@ export default function AboutUs() {
               <h4 className="font-bold mb-2">
                 Inclusivity
               </h4>
-              <p className="text-gray-600">
+              <p className="text-gray-500">
                 We ensure that children from all walks of life, ethnicity or ability are welcomed and given the support and love they deserve.
               </p>
             </div>
@@ -180,7 +180,7 @@ export default function AboutUs() {
               <h4 className="font-bold mb-2">
                 Empowerment
               </h4>
-              <p className="text-gray-600">
+              <p className="text-gray-500">
                 We believe in empowering children so that they can become independent citizens and are able to stand up for themselves.
               </p>
             </div>
@@ -191,10 +191,10 @@ export default function AboutUs() {
           <h3 className="text-2xl font-bold text-center mb-4">
             Join Us
           </h3>
-          <p className="text-gray-600 text-center mb-6 max-w-3xl mx-auto">
+          <p className="text-gray-500 text-center mb-6 max-w-3xl mx-auto">
             We are currently situated in 20 states and 3 Union Territories of India and have impacted the lives of over 48,000 children positively with the collective efforts of our whole team, volunteers and donors.
           </p>
-          <p className="text-gray-600 text-center mb-8 max-w-3xl mx-auto">
+          <p className="text-gray-500 text-center mb-8 max-w-3xl mx-auto">
             At Joyful Minds, we firmly believe that positive change requires collective efforts. We sincerely invite you to join hands with us in nurturing young minds and shaping the future of our world. Your support, in any capacity, will make a significant difference. Whether you choose to volunteer your time, raise awareness about our initiatives, or contribute to our projects, your involvement will impact the lives of countless children. Together, let&apos;s create a world where every child has the opportunity to live, learn, pursue their dreams, and above all, find happiness!
           </p>
           
